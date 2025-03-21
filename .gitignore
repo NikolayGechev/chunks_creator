@@ -1,0 +1,22 @@
+# Игнорирай компилирани файлове
+*.class
+*.jar
+*.war
+*.ear
+
+# Игнорирай логове
+*.log
+
+# Игнорирай кеширани данни
+cache/*
+
+# Игнорирай тестови резултати
+test-results/*
+
+# Игнорирай IDE специфични файлове
+.idea/*
+.vscode/*
+
+node_modules/*
+package-lock.json
+package.json
